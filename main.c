@@ -2,6 +2,7 @@
 
 main (void){
 
+int x;
 printf("Rama trolo, Rama chorro");
 
 return;
