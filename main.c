@@ -2,7 +2,8 @@
 
 main (void){
 
-int x;
+
+int y;
 printf("Rama trolo, Rama chorro");
 
 return;
