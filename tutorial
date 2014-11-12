@@ -1,0 +1,5 @@
+git status //estado actual de mi carpeta
+git add . //agrega toda la carpeta
+git commit 
+git push origin master
+git clone "url"
